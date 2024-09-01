@@ -36,7 +36,7 @@ The program will start and you can test the speech-based digit recognition syste
 
 
 # Accuracy
-![image](https://github.com/digit-recognition-System/Accuracy.jpeg)
+![image]([https://github.com/vinyl5200/Speech_Based_Digit_Recognition/blob/main/digit-recognition-System/Accuracy.jpeg])
 
 
 
