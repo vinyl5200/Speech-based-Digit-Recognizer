@@ -1,0 +1,117 @@
+﻿Build started 01-09-2024 22:29:46.
+     1>Project "V:\digit-recognition-System\digit-recognition-System\digit-recognition-System.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "V:\digit-recognition-System\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\digit-recognition-System.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\visualcode\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 234101066_digitrecognition.cpp
+         234101066_digitrecognition.cpp
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(48): warning C4244: 'argument' : conversion from 'lld' to 'int', possible loss of data
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(48): warning C4244: 'argument' : conversion from 'lld' to 'int', possible loss of data
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(144): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(152): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\create_universe.h(131): warning C4101: 'count' : unreferenced local variable
+     1>v:\digit-recognition-system\digit-recognition-system\create_codebook.h(87): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\create_codebook.h(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\create_codebook.h(93): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\create_codebook.h(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\create_codebook.h(183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(331): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(332): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(334): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(336): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(344): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(345): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(349): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(410): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(411): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(416): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(426): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(427): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(456): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(457): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(464): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\training.h(443): warning C4101: 'count' : unreferenced local variable
+     1>v:\digit-recognition-system\digit-recognition-system\testing.h(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\testing.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\testing.h(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\testing.h(24): warning C4101: 'count' : unreferenced local variable
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(36): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(71): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(118): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>v:\digit-recognition-system\digit-recognition-system\live_testing.h(103): warning C4101: 'count' : unreferenced local variable
+     1>v:\digit-recognition-system\digit-recognition-system\234101066_digitrecognition.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualcode\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>v:\digit-recognition-system\digit-recognition-system\234101066_digitrecognition.cpp(48): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visualcode\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\digit-recognition-System.exe.embed.manifest.res" Debug\digit-recognition-System_manifest.rc 
+       Link:
+         d:\visualcode\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"V:\digit-recognition-System\Debug\digit-recognition-System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\digit-recognition-System.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"V:\digit-recognition-System\Debug\digit-recognition-System.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"V:\digit-recognition-System\Debug\digit-recognition-System.lib" /MACHINE:X86 "Debug\digit-recognition-System.exe.embed.manifest.res"
+         Debug\234101066_digitrecognition.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\digit-recognition-System.exe.embed.manifest" /manifest "Debug\digit-recognition-System.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\digit-recognition-System.exe.embed.manifest.res" Debug\digit-recognition-System_manifest.rc 
+       LinkEmbedManifest:
+         d:\visualcode\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"V:\digit-recognition-System\Debug\digit-recognition-System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\digit-recognition-System.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"V:\digit-recognition-System\Debug\digit-recognition-System.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"V:\digit-recognition-System\Debug\digit-recognition-System.lib" /MACHINE:X86 "Debug\digit-recognition-System.exe.embed.manifest.res"
+         Debug\234101066_digitrecognition.obj
+         digit-recognition-System.vcxproj -> V:\digit-recognition-System\Debug\digit-recognition-System.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\digit-recognition-System.unsuccessfulbuild".
+         Touching "Debug\digit-recognition-System.lastbuildstate".
+     1>Done Building Project "V:\digit-recognition-System\digit-recognition-System\digit-recognition-System.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.61
