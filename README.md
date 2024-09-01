@@ -36,9 +36,7 @@ The program will start and you can test the speech-based digit recognition syste
 
 
 # Accuracy
-![image](https://github.com/)
+![image](https://github.com/digit-recognition-System/Accuracy.jpeg)
 
-# Results
-![image](https://github.com/abhinit110/Detection_of_Dyslexia_using_handwriting_images/assets/69039435/36aea45e-5a17-4970-a856-90898359c925)
 
 
