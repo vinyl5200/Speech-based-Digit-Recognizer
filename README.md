@@ -25,12 +25,14 @@ Open the Solution File:
 
 Navigate to the build directory.
 Open the Speech_Based_Digit_Recognition.sln file using Visual Studio 2010.
+
+
 Build the Solution:
-
 In Visual Studio 2010, go to the "Build" menu and select "Build Solution" (or press F7).
-Wait for the build process to complete. Ensure that there are no errors.
-Run the Code:
 
+Wait for the build process to complete. Ensure that there are no errors.
+
+Run the Code:
 After building the solution, go to the "Debug" menu and select "Start Debugging" (or press F5) to run the executable.
 The program will start and you can test the speech-based digit recognition system.
 
